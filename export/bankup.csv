@@ -1,0 +1,8 @@
+
+S.ID, User Name, IMEI1, IMEI2, Details, Status, Created DateTime, Updated DateTime, 
+
+1, mark Smith, 1, 1, d, Active, 2016-03-09 10:11 PM, 2016-03-09 10:11 PM, 
+2, Mahesh Singh, 2342, 5672, det, Active, 2016-03-09 10:09 PM, 2016-03-09 10:10 PM, 
+3, , 1234, 456, details, Active, 2016-03-09 09:41 PM, 2016-03-09 09:42 PM, 
+4, , 8oorteee, 3oorteee, test details, Active, 2016-02-29 07:54 PM, 2016-02-29 07:56 PM, 
+5, , Designation , <p>Display Name Display Name Display Name Display Name Display Name Display Name, , Active, , 2015-11-30 07:30 PM, 
